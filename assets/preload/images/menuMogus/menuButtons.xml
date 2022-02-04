@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuButtons.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hover-credits0000" x="0" y="351" width="260" height="117"/>
+	<SubTexture name="hover-freeplay0000" x="0" y="234" width="260" height="117"/>
+	<SubTexture name="hover-options0000" x="0" y="585" width="260" height="117"/>
+	<SubTexture name="hover-story0000" x="0" y="0" width="260" height="117"/>
+	<SubTexture name="idle-credits0000" x="0" y="468" width="260" height="117"/>
+	<SubTexture name="idle-freeplay0000" x="0" y="819" width="260" height="117"/>
+	<SubTexture name="idle-options0000" x="0" y="702" width="260" height="117"/>
+	<SubTexture name="idle-story0000" x="0" y="117" width="260" height="117"/>
+</TextureAtlas>
