@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="keyboardKey.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="keyIdle0000" x="0" y="0" width="98" height="127"/>
+	<SubTexture name="keyIdle0001" x="98" y="0" width="98" height="127"/>
+	<SubTexture name="keyIdle0002" x="196" y="0" width="98" height="127"/>
+	<SubTexture name="keyIdle0003" x="294" y="0" width="98" height="127"/>
+	<SubTexture name="keyIdle0004" x="392" y="0" width="98" height="127"/>
+	<SubTexture name="keyIdle0005" x="392" y="0" width="98" height="127"/>
+	<SubTexture name="keyIdle0006" x="0" y="127" width="98" height="127"/>
+	<SubTexture name="keyIdle0007" x="98" y="127" width="98" height="127"/>
+	<SubTexture name="keyIdle0008" x="196" y="127" width="98" height="127"/>
+	<SubTexture name="keyPress0000" x="294" y="127" width="97" height="68"/>
+	<SubTexture name="keyPress0001" x="391" y="127" width="97" height="68"/>
+	<SubTexture name="keyPress0002" x="294" y="195" width="97" height="68"/>
+	<SubTexture name="keyPress0003" x="391" y="195" width="97" height="68"/>
+	<SubTexture name="keyPress0004" x="391" y="195" width="97" height="68"/>
+</TextureAtlas>
