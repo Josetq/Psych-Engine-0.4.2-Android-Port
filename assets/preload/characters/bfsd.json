@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				125,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Bfwhite DOWN MISS"
+		},
+		{
+			"offsets": [
+				166,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Bfwhite LEFT MISS"
+		},
+		{
+			"offsets": [
+				556,
+				202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Bfwhite RIGHT MISS"
+		},
+		{
+			"offsets": [
+				605,
+				164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Bfwhite UP MISS"
+		},
+		{
+			"offsets": [
+				90,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bfwhite down"
+		},
+		{
+			"offsets": [
+				175,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bfwhite left"
+		},
+		{
+			"offsets": [
+				31,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bfwhite up"
+		},
+		{
+			"offsets": [
+				2,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bfwhite right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bfwhite idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BfWhite_assets",
+	"position": [
+		130,
+		210
+	],
+	"healthicon": "bfsd",
+	"flip_x": true,
+	"healthbar_colors": [
+		115,
+		115,
+		100
+	],
+	"camera_position": [
+		610,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

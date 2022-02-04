@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				274,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				274,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				227,
+				156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				259,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				264,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/piano_man_insane",
+	"position": [
+		-230,
+		-40
+	],
+	"healthicon": "mickpf",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		115,
+		100
+	],
+	"camera_position": [
+		-30,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
