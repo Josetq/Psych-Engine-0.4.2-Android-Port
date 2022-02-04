@@ -1,0 +1,82 @@
+{ "frames": {
+   "Loading 0.gif": {
+    "frame": { "x": 0, "y": 0, "w": 300, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 300 },
+    "sourceSize": { "w": 300, "h": 300 },
+    "duration": 100
+   },
+   "Loading 1.gif": {
+    "frame": { "x": 300, "y": 0, "w": 300, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 300 },
+    "sourceSize": { "w": 300, "h": 300 },
+    "duration": 100
+   },
+   "Loading 2.gif": {
+    "frame": { "x": 600, "y": 0, "w": 300, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 300 },
+    "sourceSize": { "w": 300, "h": 300 },
+    "duration": 100
+   },
+   "Loading 3.gif": {
+    "frame": { "x": 900, "y": 0, "w": 300, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 300 },
+    "sourceSize": { "w": 300, "h": 300 },
+    "duration": 100
+   },
+   "Loading 4.gif": {
+    "frame": { "x": 1200, "y": 0, "w": 300, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 300 },
+    "sourceSize": { "w": 300, "h": 300 },
+    "duration": 100
+   },
+   "Loading 5.gif": {
+    "frame": { "x": 1500, "y": 0, "w": 300, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 300 },
+    "sourceSize": { "w": 300, "h": 300 },
+    "duration": 100
+   },
+   "Loading 6.gif": {
+    "frame": { "x": 1800, "y": 0, "w": 300, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 300 },
+    "sourceSize": { "w": 300, "h": 300 },
+    "duration": 100
+   },
+   "Loading 7.gif": {
+    "frame": { "x": 2100, "y": 0, "w": 300, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 300 },
+    "sourceSize": { "w": 300, "h": 300 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3-beta7-x64",
+  "image": "Loading.png",
+  "format": "I8",
+  "size": { "w": 2400, "h": 300 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Background", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
